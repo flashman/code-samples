@@ -5,7 +5,7 @@
 @about: A simple commandline tool for rendering <*..*> formated html templates.
 @requirments: sys, json, arparse, re
 @usage:
-    money-cash$ python templater.py [-h] template.panoramatemplate data.json output.html
+    money-cash$ python templater.py [-h] template data.json output.html
     positional arguments:
       main
       template    Path to html template file
