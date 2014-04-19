@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 '''
-@author: homoflashmanicus (Michael Flashman)
+@author: homoflashmanicus
 @date: March 30, 2014
 @about: A simple commandline tool for rendering <*..*> formated html templates.
 @requirments: sys, json, arparse, re
