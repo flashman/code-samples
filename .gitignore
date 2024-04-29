@@ -20,3 +20,7 @@
 #Ignore project files...
 .DS_Store
 .ropeproject
+
+#Ignore cached
+/__pycache__
+*.pyc
